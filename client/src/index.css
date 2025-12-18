@@ -11,3 +11,7 @@
     @apply cursor-pointer;
   }
 }
+
+body {
+  background-image: url("https://raw.githubusercontent.com/prebuiltui/prebuiltui/refs/heads/main/assets/hero/bg-gradient-2.png");
+}
